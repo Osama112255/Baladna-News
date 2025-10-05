@@ -1,0 +1,702 @@
+[
+  {
+    "title": "QatarEnergy تستحوذ على 27% من حقل شمال كليوباترا",
+    "description": "اتفاقية شراء حصة في حقل شمال كليوباترا البحري قبالة مصر.",
+    "image": "assets/egypt1.jpg",
+    "category": "economy",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "القاهرة تستضيف مفاوضات وقف إطلاق النار لقطاع غزة",
+    "description": "مفاوضات في القاهرة لبحث وقف إطلاق النار وتبادل الأسرى.",
+    "image": "assets/egypt2.jpg",
+    "category": "politics",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "المركزي المصري يخفض سعر الفائدة 100 نقطة أساس",
+    "description": "خطوة في إطار سياسة نقدية تيسيرية.",
+    "image": "assets/egypt3.jpg",
+    "category": "economy",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "انطلاق موسم الدوري المصري بمواجهات نارية",
+    "description": "جديد جدول المباريات وأبرز التوقعات للموسم.",
+    "image": "assets/egypt4.jpg",
+    "category": "sports",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "مهرجان القاهرة السينمائي يستقبل أفلامًا جديدة",
+    "description": "فعاليات فنية وثقافية يجمعها المهرجان.",
+    "image": "assets/egypt5.jpg",
+    "category": "culture",
+    "date": "2025-10-05"
+  },
+  {
+    "title": "خبر تجريبي رقم 6 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 7 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 8 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 9 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 10 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 11 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 12 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 13 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 14 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 15 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 16 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 17 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 18 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 19 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 20 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 21 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 22 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 23 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 24 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 25 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 26 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 27 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 28 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 29 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 30 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 31 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 32 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 33 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 34 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 35 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 36 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 37 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 38 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 39 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 40 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 41 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 42 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 43 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 44 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 45 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 46 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 47 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 48 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 49 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 50 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 51 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 52 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 53 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 54 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 55 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 56 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 57 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 58 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 59 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 60 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 61 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 62 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 63 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 64 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 65 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 66 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 67 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 68 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 69 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 70 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 71 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 72 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 73 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 74 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 75 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 76 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 77 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 78 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 79 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 80 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 81 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 82 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 83 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 84 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 85 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 86 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 87 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 88 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 89 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 90 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 91 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 92 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 93 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 94 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 95 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 96 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 97 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 98 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 99 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  },
+  {
+    "title": "خبر تجريبي رقم 100 - عنوان نائب",
+    "description": "ملخص تجريبي. يمكن استبداله بخبر حقيقي.",
+    "image": "assets/placeholder.jpg",
+    "date": "2025-10-05",
+    "category": "general"
+  }
+]
