@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>أخبار بلدنا — نسخة متكاملة</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header class="hero-header">
+    <div class="top-bar container">
+      <div class="logo">
+        <img src="assets/flag.svg" alt="علم مصر">
+        <h1>أخبار <span>بلدنا</span></h1>
+      </div>
+      <div class="live"> <span class="dot"></span> بث مباشر</div>
+    </div>
+
+    <nav class="main-nav container" aria-label="الأقسام الرئيسية">
+      <a href="#" data-cat="all" class="nav-link active">الرئيسية</a>
+      <a href="#" data-cat="politics" class="nav-link">سياسة</a>
+      <a href="#" data-cat="economy" class="nav-link">اقتصاد</a>
+      <a href="#" data-cat="sports" class="nav-link">رياضة</a>
+      <a href="#" data-cat="culture" class="nav-link">ثقافة</a>
+      <a href="#" data-cat="tech" class="nav-link">تكنولوجيا</a>
+    </nav>
+  </header>
+
+  <!-- Search -->
+  <div class="search-wrap container">
+    <div class="search-bar">
+      <input id="searchInput" placeholder="ابحث عن الأخبار أو كلمة مفتاحية..." />
+      <button id="searchBtn" title="بحث"><i class="fas fa-search"></i></button>
+    </div>
+  </div>
+
+  <!-- Quick sources section -->
+  <section class="quick-sources container" id="quickSources">
+    <h2>📰 مصادر سريعة</h2>
+    <div class="sources-grid">
+      <div class="source-card politics" data-category="politics"><i class="fas fa-landmark"></i><span>سياسة</span></div>
+      <div class="source-card economy" data-category="economy"><i class="fas fa-coins"></i><span>اقتصاد</span></div>
+      <div class="source-card sports" data-category="sports"><i class="fas fa-futbol"></i><span>رياضة</span></div>
+      <div class="source-card tech" data-category="tech"><i class="fas fa-microchip"></i><span>تكنولوجيا</span></div>
+      <div class="source-card culture" data-category="culture"><i class="fas fa-palette"></i><span>ثقافة</span></div>
+      <div class="source-card weather" data-category="weather"><i class="fas fa-cloud-sun"></i><span>الطقس</span></div>
+    </div>
+  </section>
+
+  <!-- News feed -->
+  <main class="container">
+    <section id="heroGrid" class="hero-grid"></section>
+    <section id="newsContainer" class="news-container">
+      <p class="loading">جارٍ تحميل الأخبار...</p>
+    </section>
+    <div class="load-more-wrap"><button id="loadMore">تحميل المزيد</button></div>
+  </main>
+
+  <!-- Modal for article -->
+  <div id="newsModal" class="modal" aria-hidden="true">
+    <div class="modal-content">
+      <span id="closeModal" aria-label="إغلاق">&times;</span>
+      <img id="modalImage" src="" alt="">
+      <h2 id="modalTitle"></h2>
+      <p id="modalDescription"></p>
+      <p class="meta" id="modalMeta"></p>
+      <div class="modal-actions">
+        <a id="modalLink" href="#" target="_blank" rel="noopener">المصدر الأصلي</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="modern-footer">
+    <div class="footer-container container">
+      <div class="footer-logo">
+        <h2>أخبار بلدنا</h2>
+        <p>نغطي أهم أخبار مصر والعالم بلغة عربية واضحة</p>
+      </div>
+      <div class="footer-links">
+        <h3>روابط سريعة</h3>
+        <ul>
+          <li><a href="#" data-cat="politics">سياسة</a></li>
+          <li><a href="#" data-cat="economy">اقتصاد</a></li>
+          <li><a href="#" data-cat="sports">رياضة</a></li>
+          <li><a href="#" data-cat="culture">فن وثقافة</a></li>
+          <li><a href="#" data-cat="tech">تكنولوجيا</a></li>
+        </ul>
+      </div>
+      <div class="footer-contact">
+      
+      </div>
+    </div>
+    <div class="footer-bottom"><p>© 2025 أخبار بلدنا — جميع الحقوق محفوظة</p></div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
